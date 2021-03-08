@@ -13,3 +13,10 @@ Here are some ideas to get you started:
 - 📫 How to reach me: 97josephkibira@gmail.com
 - 😄 Pronouns: ...
 - ⚡ Fun fact: i love trading
+- DOMAINS OF RESEARCH ARE: 
+- ⚡ MACHINE LEARNING,
+-⚡  DATA SCIENCE
+- ⚡ ALGORITHMIC TRADING-PYTHON QUANTOPIAN ,MT4/MT5,NINJATRADER AND JS-ALGO
+- ⚡ NATURAL LANGUAGE PROCESSING 
+- ⚡ COGNITIVE SCIENCE AND EMBEDDED SYSTEMS
+- ⚡ ONLINE LEARNING AND BAYESIAN INFERENCE SYSTEMS
