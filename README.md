@@ -5,6 +5,9 @@
 
 Here are some ideas to get you started:
 
+![ GitHub stats](https://github-readme-stats.vercel.app/api?username=97joseph&show_icons=true&theme=radical)
+
+
 - 🔭 I’m currently working on MT5 and Machine learning
 - 🌱 I’m currently learning OOP PHP , JavaScript and Matlab
 - 👯 I’m looking to collaborate on Machine Learning projects
