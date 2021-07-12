@@ -23,3 +23,5 @@ Here are some ideas to get you started:
 - ⚡ NATURAL LANGUAGE PROCESSING 
 - ⚡ COGNITIVE SCIENCE AND EMBEDDED SYSTEMS
 - ⚡ ONLINE LEARNING AND BAYESIAN INFERENCE SYSTEMS
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=97joseph)](https://github.com/97joseph/github-readme-stats)
