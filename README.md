@@ -7,7 +7,9 @@ Here are some ideas to get you started
 -Repository Statistics
 ![ GitHub stats](https://github-readme-stats.vercel.app/api?username=97joseph&show_icons=true&theme=radical)
 
-[![Visits Badge](https://badges.pufler.dev/visits/97joseph/97joseph)](https://badges.pufler.dev) [![Years Badge](https://badges.pufler.dev/years/97joseph)
+[![Visits Badge](https://badges.pufler.dev/visits/subins2000/subins2000)](https://badges.pufler.dev) 
+
+[![Years Badge](https://badges.pufler.dev/years/97joseph)
 
 - 💬 Ask me about ML,Cognitive Science,Natural Language Processing, Robotics, Automation and Deep Learning
 - 📫 How to reach me: 97josephkibira@gmail.com
