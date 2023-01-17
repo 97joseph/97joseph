@@ -5,11 +5,8 @@
 
 Here are some ideas to get you started
 -Repository Statistics
-![ GitHub stats](https://github-readme-stats.vercel.app/api?username=97joseph&show_icons=true&theme=radical)
 
-[![Visits Badge](https://badges.pufler.dev/visits/subins2000/subins2000)](https://badges.pufler.dev) 
-
-[![Years Badge](https://badges.pufler.dev/years/97joseph)
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=97joseph" alt="ndiritumichael" /></a> </p>
 
 - 💬 Ask me about ML,Cognitive Science,Natural Language Processing, Robotics, Automation and Deep Learning
 - 📫 How to reach me: 97josephkibira@gmail.com
