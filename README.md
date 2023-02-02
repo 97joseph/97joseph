@@ -19,6 +19,8 @@ Here are some ideas to get you started
 -My Strongest skills are:
 
 -✅ Software Engineering and Design
+
+-Laravel And Php 
 - Full Stack Development with MERN stack
 -Android Development with Java and Kotlin
 - IOS Development with Flutter and Objective-C
