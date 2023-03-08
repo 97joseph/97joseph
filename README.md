@@ -1,7 +1,10 @@
 ### Hi there 👋
 
--Core Stack- Mobile Development(Java,Flutter and Kotlin)
+
 -Core Framework-Angular and React Native
+
+-Core Stack- Mobile Development(Java,Flutter and Kotlin)
+
 
 Here are some ideas to get you started
 
