@@ -1,10 +1,8 @@
 ### Hi there 👋
 
-
--Core Framework-Angular and React Native
-
 -Core Stack- Mobile Development(Java,Flutter and Kotlin)
 
+-Core Framewor-Laravel
 
 Here are some ideas to get you started
 
