@@ -2,7 +2,7 @@
 
 -Core Stack- Mobile Development(Java,Flutter and Kotlin)
 
--Core Framewor-Laravel
+-Core Framework-Asp.net | Laravel
 
 Here are some ideas to get you started
 
