@@ -10,7 +10,6 @@ Here are some ideas to get you started
 - 📫 How to reach me: 97josephkibira@gmail.com
 - 💬 Passionate about  Building Trading Bots,Forex and Decentralized Systems 
 
-![Profile views](https://gpvc.arturio.dev/97joseph)
 
 -Send a text via whatsapp at :+254791040912 
 
