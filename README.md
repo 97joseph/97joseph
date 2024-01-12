@@ -1,8 +1,9 @@
 ### Hi there 👋
+I am Joseph Kibira. A Technical Consultant and a full-stack developer.
 
 -Core Stack- Mobile Development(Java,Flutter and Kotlin)
 
--Core Framework-Asp.net | Laravel
+-Core Framework-Asp.net | Laravel | Django
 
 Here are some ideas to get you started
 
