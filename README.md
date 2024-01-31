@@ -4,18 +4,31 @@ I am Joseph Kibira. A Technical Consultant and a full-stack developer.
 Stack I have worked on and continously improve on
 Aspiring for opportunities and collaborations in the field of :
 • POS Systems and ERPs
+
 • Microsoft 365 Dynamics
+
 • CRM Portals
+
 • ERPNext
+
 • Odoo ERP and POS
+
 • Laravel Portals
+
 • Asp.net Back-end
+
 • Power BI
+
 • Flutter-Mobile Apps
+
 • Data Science/Machine Learning
+
 • Django and Python
+
 • Analysis /Dashboarding /Reporting Services• ERP /SAP
+
 • Consulting
+
 -Building Trading Bots,Forex and Decentralized Systems
 
 
