@@ -1,8 +1,6 @@
 ### Hi there 👋
 I am Joseph Kibira. A Technical Consultant and a full-stack developer.
 
-Stack I have worked on and continously improve on
-
 Aspiring for opportunities and collaborations in the field of :
 
 • Angular and React
