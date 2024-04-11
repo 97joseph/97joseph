@@ -2,6 +2,7 @@
 I am Joseph Kibira. A Technical Consultant and a full-stack developer.
 
 Aspiring for opportunities and collaborations in the field of :
+
 • Microsoft 365 Dynamics
 
 • Power BI analytics
