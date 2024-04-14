@@ -9,7 +9,7 @@ Aspiring for opportunities and collaborations in the field of :
 
 • Tableau Reports
 
-• Angular and React
+• Angular and React | Angular Games
 
 • POS Systems and ERP
 
