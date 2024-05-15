@@ -3,21 +3,7 @@ I am Joseph Kibira. A Technical Consultant and a full-stack developer.
 
 Aspiring for opportunities and collaborations in the field of :
 
-• Microsoft 365 Dynamics
-
-• Power BI analytics
-
-• Tableau Reports
-
-• Angular and React | Angular Games
-
-• POS Systems and ERP
-
-• C# and Asp.net
-
-• Laravel
-
-• Django
+• C# and Asp.net | Microsoft 365 Dynamics | Power BI analytics | Tableau Reports| Angular and React | Angular Games| POS Systems and ERP | Laravel | Django
 
 Here are some ideas to get you started
 
