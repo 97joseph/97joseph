@@ -1,5 +1,5 @@
 ### Hi there 👋
-I am Joseph Kibira. A Technical Consultant and a full-stack developer.
+I am Joseph Kibira.A passionated Software Developer .
 
 Aspiring for opportunities and collaborations in the field of :
 
