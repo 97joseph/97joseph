@@ -1,23 +1,29 @@
-### Hi there 👋
-I am Joseph Kibira.A passionated Software Developer .
+# Hi there 👋  
+I'm **Joseph Kibira**, a passionate Software Developer with a strong commitment to creating innovative solutions and pushing the boundaries of technology.  
 
-Aspiring for opportunities and collaborations in the field of :
+---
 
-• C# and Asp.net | Microsoft 365 Dynamics | Power BI analytics | Tableau Reports| Angular and React | Angular Games| POS Systems and ERP | Laravel | Django
+## Areas of Expertise  
+I am actively seeking opportunities and collaborations in:  
+- **C# and ASP.NET**  
+- **Microsoft 365 Dynamics**  
+- **Power BI & Tableau Analytics**  
+- **Angular & React** (including Angular Game Development)  
+- **POS Systems & ERP Solutions**  
+- **Laravel & Django Development**  
+- **Machine Learning & Cognitive Science**  
+- **Natural Language Processing, Robotics, and Automation**  
 
-Here are some ideas to get you started
+---
 
-- 💬 Ask me about ML,Cognitive Science,Natural Language Processing, Robotics, Automation and Deep Learning
-- 📫 How to reach me: 97josephkibira@gmail.com
-- 💬 Passionate about  Building Trading Bots,Forex and Decentralized Systems 
+## What I’m Passionate About  
+- Building **Trading Bots**, **Forex Platforms**, and **Decentralized Systems**.  
+- Exploring cutting-edge advancements in **Deep Learning** and **AI-driven Automation**.  
 
+---
 
--Send a text via whatsapp at :+254791040912 
+## Get in Touch  
+- 📧 Email: [97josephkibira@gmail.com](mailto:97josephkibira@gmail.com)  
+- 💬 WhatsApp: [+254791040912](https://wa.me/254791040912)  
 
-
-
-
-
-
-
-
+Feel free to reach out for collaborations, consultations, or just a tech chat!  
