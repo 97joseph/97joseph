@@ -28,4 +28,3 @@ I am actively seeking opportunities and collaborations in:
 
 Feel free to reach out for collaborations, consultations, or just a tech chat!  
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id&left_color=green&right_color=red)
